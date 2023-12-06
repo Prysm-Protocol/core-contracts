@@ -1,4 +1,4 @@
-# 0xdevhub - Crosschain NFT contracts
+# Prysm Protocol core contracts
 
 [![Run Tests](https://github.com/Prysm-Protocol/core-contracts/actions/workflows/tests.yml/badge.svg)](https://github.com/Prysm-Protocol/core-contracts/actions/workflows/tests.yml)
 
